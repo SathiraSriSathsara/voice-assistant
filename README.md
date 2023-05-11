@@ -108,7 +108,6 @@ to discuss what you would like to change.
 <br>
 
 <div align="center">
-	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/dp-wp-yt-round.png" width="40" height="50">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
 	<h4>Sathira Sri Sathsara @ 2023</h4>
 </div>	
-
